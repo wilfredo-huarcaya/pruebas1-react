@@ -6,6 +6,8 @@ import ShoppingCart from './components/ShoppingCart'
 
 import './App.scss'
 
+// Prueba ejemplo
+
 const App = () => (
   <>
     <Navbar />
